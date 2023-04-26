@@ -1,1 +1,1 @@
-# sql-training
+#SQL-training
